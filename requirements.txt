@@ -9,4 +9,4 @@ transformers
 streamlit
 tflite
 ipykernel
-keras
+keras==2.6.0
