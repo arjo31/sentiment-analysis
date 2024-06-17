@@ -5,7 +5,7 @@ tensorflow
 matplotlib
 scikit-learn
 nltk
-transformers==4.20.0
+transformers
 streamlit
 tflite
 ipykernel
